@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Intern-Hiring
 Intern-Hiring System
 
@@ -10,4 +9,4 @@ Intern-Hiring System
    `npm install`
 3. Run the app:
    `npm run dev`
->>>>>>> 7f3b74e (New Project)
+
